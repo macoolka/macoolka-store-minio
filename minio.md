@@ -1,0 +1,1 @@
+docker run -p 9000:9000 -e MINIO_ACCESS_KEY=macoolka -e MINIO_SECRET_KEY=macoolka minio/minio server /data
